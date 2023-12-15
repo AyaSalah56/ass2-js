@@ -1,0 +1,28 @@
+h1
+{
+    font-family :Impact;
+    font-size:80px;
+    margin: 53.6px 0px ;
+    padding: 0px;
+    font-weight:700 ;
+    color: black;
+}
+
+p
+{
+    font-family : Times New Roman;
+    margin:35px 0px;
+    font-size:35px;
+}
+button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+    transition: 0.2s;
+}
+
+button:hover
+{
+    background-color: green;
+}
